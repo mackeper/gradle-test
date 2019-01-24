@@ -9,7 +9,7 @@ public class App {
     }
 
     public int get1() {
-        return 2;
+        return 1;
     }
 
     public static void main(String[] args) {
