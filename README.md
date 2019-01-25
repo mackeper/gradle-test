@@ -17,3 +17,6 @@ sudo apt upgrade gradle
 
 ## Usage 
 `./gradlew tasks`
+
+## Gradle guide
+https://guides.gradle.org/building-java-applications/
