@@ -1,5 +1,8 @@
 # gradle-test
 
+## Build
+[![Build Status](https://travis-ci.org/mackeper/gradle-test.svg?branch=master)](https://travis-ci.org/mackeper/gradle-test)
+
 ## install
 https://gradle.org/install/#with-a-package-manager
 or
