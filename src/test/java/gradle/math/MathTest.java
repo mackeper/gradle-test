@@ -14,6 +14,6 @@ public class MathTest {
 
     @Test public void testSub() {
         Math m = new Math();
-        assertEquals(2, m.sub(1,1));
+        assertEquals(0, m.sub(1,1));
     }
 }
