@@ -11,4 +11,9 @@ public class MathTest {
         Math m = new Math();
         assertEquals(2, m.add(1,1));
     }
+
+    @Test public void testSub() {
+        Math m = new Math();
+        assertEquals(0, m.sub(1,1));
+    }
 }
