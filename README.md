@@ -2,6 +2,7 @@
 
 ## Build
 [![Build Status](https://travis-ci.org/mackeper/gradle-test.svg?branch=master)](https://travis-ci.org/mackeper/gradle-test)
+[![codecov](https://codecov.io/gh/mackeper/gradle-test/branch/master/graph/badge.svg)](https://codecov.io/gh/mackeper/gradle-test)
 
 ## install
 https://gradle.org/install/#with-a-package-manager
@@ -20,3 +21,6 @@ sudo apt upgrade gradle
 
 ## Gradle guide
 https://guides.gradle.org/building-java-applications/
+
+## Codecov
+https://github.com/codecov/example-gradle
